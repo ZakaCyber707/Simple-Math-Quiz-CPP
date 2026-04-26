@@ -32,9 +32,4 @@ A simple C++ program that generates two random numbers and displays their sum in
 
 ---
 
-## 🚀 Getting Started
-
-### 🔹 Clone the repository
-
-
 Muhammad Zaka | Cybersecurity Analyst & Tech Educator
